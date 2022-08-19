@@ -11,8 +11,8 @@ module.exports = {
   networks: {
     
     "optimism": {
-       url: process.env.URL,
-       accounts: [ process.env.MNEMONIC ]
+       url: "",
+       accounts: ["" ]
     }
   }
 };
